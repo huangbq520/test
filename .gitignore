@@ -52,6 +52,7 @@ dmypy.json
 .pytest_cache/
 
 # Model files
+models/
 *.pth
 *.pt
 *.h5
